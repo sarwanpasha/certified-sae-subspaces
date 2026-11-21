@@ -1,0 +1,10 @@
+torch>=2.4
+transformers>=4.45
+datasets
+accelerate
+huggingface_hub
+safetensors
+numpy
+scipy
+scikit-learn
+joblib
